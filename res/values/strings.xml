@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Intent&amp;LayoutApp</string>
+    <string name="move_activity_login">Form Login</string>
+    <string name="move_activity_layout">Layout Gambar and Text</string>
+</resources>
